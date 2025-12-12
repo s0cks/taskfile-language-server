@@ -5,6 +5,21 @@
 
 This project is an LSP implementation for https://taskfile.dev
 
+## Installation
+
+
+You can install taskfile-language-server using the following methods:
+
+### From Source
+
+
+```sh
+git clone https://github.com/s0cks/taskfile-language-server.git
+cd taskfile-language-server/
+go install .
+```
+
+
 ## Features
 
 Here is the list of supported features of the Language Server Protocol
